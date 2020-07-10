@@ -1,4 +1,4 @@
-# QuickSort_Header_File
+# QuickSort Header File
 This repository contains the header file for quicksort which has been implemented using c++
 
 ## Language/Library Used -
